@@ -2,3 +2,7 @@
 {
 	printf("testtesttest");
 }
+void testfunctions()
+{
+	printf("testtesttesttest");
+}
