@@ -6,7 +6,3 @@ void testfunctions()
 {
 	printf("testtesttesttest");
 }
-void testfunctions()
-{
-	printf("testtesttesttesttest");
-}
